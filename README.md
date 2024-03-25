@@ -88,8 +88,18 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 <details>
   <summary> Changelog </summary>
   <details>
+  <summary> v5.0.3.2 </summary>
+  <ul> <li>Edited lobby HUD</li> </ul>
+  <ul> <li>Added skins:</li>
+    <ul> <li>Apex</li> </ul>
+    <ul> <li>Bean</li> </ul>
+    <ul> <li>Georgie</li> </ul>
+    <ul> <li>pinhead</li> </ul>
+    <ul> <li>zuko</li> </ul>
+  </details>
+  <details>
   <summary> v5.0.3.1 </summary>
-  <ul> <li>Added skins:</li> </ul>
+  <ul> <li>Added skins:</li>
   <ul> <li>Mina</li> </ul>
   <ul> <li>Suachi</li> </ul>
   <ul> <li>Aym</li> </ul>
