@@ -5,8 +5,6 @@
 
 An Among Us mod that adds a bunch of roles, modifiers and game settings
 
-Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or want to find people to play with!
-
 **Crewmate Roles**
 - [Aurial](#aurial)
 - [Detective](#detective)
@@ -84,24 +82,17 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
-| 2023.11.28s & 2023.11.28e | v5.0.3 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.0.3/ToU.v5.0.3.zip) |
+| 2023.11.28s & 2023.11.28e | v5.0.3 | [Download](https://github.com/Colour-cr3/Town-Of-Us-R-SE/releases/tag/v5.0.3) |
 
 <details>
   <summary> Changelog </summary>
   <details>
   <summary> v5.0.3 </summary>
-  <ul> <li>Compatibility with the new Among Us version v2023.11.28</li> </ul>
-  <ul> <li>Role gen system reparied, courtesy of @AlchlcDvl and @fariparedes</li> </ul>
-  <ul> <li>Role color is now used for interaction highlights</li> </ul>
-  <ul> <li>Changes to intro role colors, courtesy of @Loonie-Toons</li> </ul>
-  <ul> <li>Custom keybinds for interactions - integration to among us keybinds, courtesy of @whichtwix</li> </ul>
-  <ul> <li>Added a tiny discord rich prescense line</li> </ul>
-  <ul> <li>Disperse added back to submerged and heli</li> </ul>
-  <ul> <li>Multiple revived people from altruist appear on imposters arrows, rather than just the latest, courtesy of @whichtwix</li> </ul>
-  <ul> <li>Ping tracker reduced in size</li> </ul>
-  <ul> <li>Host is now shown in the ping tracker whilst in the lobby</li> </ul>
-  <ul> <li>Shows host in top left of lobby meetings</li> </ul>
-  <ul> <li>-- Soon to come: Full rewrite.</li> </ul>
+  <ul> <li>Added skins:</li> </ul>
+  <ul> <li>Mina</li> </ul>
+  <ul> <li>Suachi</li> </ul>
+  <ul> <li>Aym</li> </ul>
+  <ul> <li>Lamb</li> </ul>
   </details>
 </details>
 
@@ -202,8 +193,6 @@ If there any problems with the script please check the [faq](https://github.com/
 
 ![Install](https://i.imgur.com/pvBAyZN.png)
 <br/>
-## Issues
-If you have issues installing Town of Us, you can join our [Discord](https://discord.gg/ugyc4EVUYZ) to receive help.
 
 -----------------------
 # Roles
