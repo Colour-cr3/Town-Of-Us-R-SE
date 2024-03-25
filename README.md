@@ -82,6 +82,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
+| 2023.11.28s & 2023.11.28e | v5.0.3.2 | [Download](https://github.com/Colour-cr3/Town-Of-Us-R-SE/releases/tag/v5.0.3.2) |
 | 2023.11.28s & 2023.11.28e | v5.0.3.1 | [Download](https://github.com/Colour-cr3/Town-Of-Us-R-SE/releases/tag/v5.0.3.1) |
 
 <details>
