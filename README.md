@@ -82,11 +82,21 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
+| 2023.11.28s & 2023.11.28e | v5.0.3.3 | [Download](https://github.com/Colour-cr3/Town-Of-Us-R-SE/releases/tag/v5.0.3.3) |
 | 2023.11.28s & 2023.11.28e | v5.0.3.2 | [Download](https://github.com/Colour-cr3/Town-Of-Us-R-SE/releases/tag/v5.0.3.2) |
 | 2023.11.28s & 2023.11.28e | v5.0.3.1 | [Download](https://github.com/Colour-cr3/Town-Of-Us-R-SE/releases/tag/v5.0.3.1) |
 
 <details>
   <summary> Changelog </summary>
+  <details>
+  <summary> v5.0.3.3 </summary>
+  <ul> <li>Unlocked all base game cosmetics</li>
+    <ul> <li>This includes banners, pets, pants, etc...</li> </ul>
+  <li>Added skins:</li> 
+    <ul> <li>3love</li> </ul>
+    <ul> <li>Itani</li> </ul>
+    <ul> <li>Reyna</li> </ul>
+  </details>
   <details>
   <summary> v5.0.3.2 </summary>
   <ul> <li>Edited lobby HUD</li> </ul>
